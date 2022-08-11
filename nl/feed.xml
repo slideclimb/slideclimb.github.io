@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://slideclimb.github.io/nl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://slideclimb.github.io/nl/" rel="alternate" type="text/html" /><updated>2022-08-11T17:47:43+00:00</updated><id>https://slideclimb.github.io/feed.xml</id><author><name>Abby Berkers</name></author><entry xml:lang="nl"><title type="html">Welkom!</title><link href="https://slideclimb.github.io/nl/2022/08/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welkom!" /><published>2022-08-07T15:20:16+00:00</published><updated>2022-08-07T15:20:16+00:00</updated><id>https://slideclimb.github.io/2022/08/07/welcome-to-jekyll</id><content type="html" xml:base="https://slideclimb.github.io/2022/08/07/welcome-to-jekyll.html"><![CDATA[<p>Nederlandse testpagina.</p>
+
+<div class="language-latex highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Zij <span class="p">$</span><span class="nv">\varepsilon</span><span class="nb"> &gt; </span><span class="m">0</span><span class="p">$</span>, en
+<span class="p">\[</span><span class="nb">
+</span><span class="nv">\sum</span><span class="p">_{</span><span class="nb">i</span><span class="o">=</span><span class="m">0</span><span class="p">}^</span><span class="nb">n </span><span class="nv">\frac</span><span class="p">{</span><span class="m">1</span><span class="p">}{</span><span class="nb">i</span><span class="p">^</span><span class="m">2</span><span class="p">}</span><span class="nb">
+</span><span class="p">\]</span>
+</code></pre></div></div>
+
+<p>Zij $\varepsilon &gt; 0$, en
+[
+\sum_{i=0}^n \frac{1}{i^2}
+]</p>]]></content><author><name>Abby Berkers</name></author><summary type="html"><![CDATA[Nederlandse testpagina.]]></summary></entry></feed>
