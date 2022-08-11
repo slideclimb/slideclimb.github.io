@@ -15,7 +15,7 @@ sass:
 
 
 # Build settings
-#theme: minimaLiquid Exception: No repo name found. Specify using PAGES_REPO_NWO environment variables, 'repository' in your configuration
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-polyglot
